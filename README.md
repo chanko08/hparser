@@ -21,4 +21,4 @@ cabal configure
 cabal build
 ```
 
-This will create a `dist` directory that holds the compiled versions of all three parsers.
+This will create a `dist` directory that holds the compiled versions of all three parsers. There are no libraries required other than the base library.
